@@ -4,8 +4,8 @@ namespace PerformanceMeasurer
 {
     public class ExperimentResult
     {
-        public string Name { get; set; }
-        public IEnumerable<ProbeResult> ProbeResults { get; set; }
+        public string Name { get; private set; }
+        public IEnumerable<ProbeResult> ProbeResults { get; private set; }
 
         public ExperimentResult(string name, IEnumerable<ProbeResult> probeResults)
         {

@@ -6,14 +6,14 @@ namespace PerformanceMeasurer
     {
         public int From { get; private set; }
         public int To { get; private set; }
-        public Func<int, int> Step { get; private set; }
+        public Func<int, int> NextSize { get; private set; }
 
         public InputSettings(int from, int to)
             : this(from, to, x => x * 2)
         {
         }
 
-        public InputSettings(int from, int to, Func<int, int> step)
+        public InputSettings(int from, int to, Func<int, int> nextSize)
         {
             if (to < from)
             {
@@ -27,7 +27,7 @@ namespace PerformanceMeasurer
 
             From = from;
             To = to;
-            Step = step;
+            NextSize = nextSize;
         }
     }
 }

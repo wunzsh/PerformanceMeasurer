@@ -28,7 +28,7 @@ namespace PerformanceMeasurer
 
                     measurements.Add(new Measurement(size, sw.Elapsed));
 
-                    size = sizeSettings.Step(size);
+                    size = sizeSettings.NextSize(size);
                 }
 
                 probeResults.Add(new ProbeResult(probe.Method.Name, measurements));

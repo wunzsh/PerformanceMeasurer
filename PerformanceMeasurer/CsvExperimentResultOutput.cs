@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 using System.IO;
 using System.Text;
 using System.Linq;
@@ -7,12 +8,18 @@ namespace PerformanceMeasurer
 {
     public class CsvExperimentResultOutput
     {
-        private const string Separator = "\t";
+        private const string DefaultSeparator = "\t";
         private readonly string _outputPath;
+        private readonly string _separator;
 
-        public CsvExperimentResultOutput(string outputPath)
+        public CsvExperimentResultOutput(string outputPath, string separator)
         {
             _outputPath = outputPath;
+            _separator = separator;
+        }
+
+        public CsvExperimentResultOutput(string outputPath) : this(outputPath, DefaultSeparator)
+        {
         }
 
         public void Output(ExperimentResult experimentResult)
@@ -43,15 +50,18 @@ namespace PerformanceMeasurer
             }
 
             sb.AppendLine(experimentResult.Name);
-            sb.AppendLine(" " + Separator + experimentResult.ProbeResults.Select(x => x.Name).Join(Separator));
+            sb.AppendLine(" " + _separator + experimentResult.ProbeResults
+                                                             .Select(x => x.Name)
+                                                             .Join(_separator));
 
             var sizesGroups = experimentResult.ProbeResults
-                .SelectMany(x => x.Measurments)
-                .GroupBy(x => x.Size);
+                                              .SelectMany(x => x.Measurments)
+                                              .GroupBy(x => x.Size);
             
             foreach( var group in sizesGroups)
             {
-                sb.AppendLine(group.Key + Separator + group.Select(x => x.Duration.TotalMilliseconds.ToString()).Join(Separator));
+                sb.AppendLine(group.Key + _separator + group.Select(x => x.Duration.TotalMilliseconds.ToString(CultureInfo.InvariantCulture))
+                                                            .Join(_separator));
             }
 
             return sb.ToString();
