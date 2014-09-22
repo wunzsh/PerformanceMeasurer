@@ -1,0 +1,203 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="D932622B-85BD-41C4-A9D7-8C1D7FF23009/f:IExperiment.cs" caret="125" fromTop="5" />
+      <File id="D932622B-85BD-41C4-A9D7-8C1D7FF23009/f:InputSettings.cs" caret="396" fromTop="15" />
+      <File id="D932622B-85BD-41C4-A9D7-8C1D7FF23009/f:StringExtentions.cs" caret="0" fromTop="0" />
+      <File id="D932622B-85BD-41C4-A9D7-8C1D7FF23009/f:Measurement.cs" caret="0" fromTop="0" />
+      <File id="D932622B-85BD-41C4-A9D7-8C1D7FF23009/f:ProbeResult.cs" caret="0" fromTop="0" />
+      <File id="D932622B-85BD-41C4-A9D7-8C1D7FF23009/f:ExperimentRunner.cs" caret="182" fromTop="8" />
+      <File id="D932622B-85BD-41C4-A9D7-8C1D7FF23009/f:ExperimentResult.cs" caret="189" fromTop="7" />
+      <File id="2F5AD5B2-550C-4B74-8267-BEDB47230B53/f:PerfomanceMeasurerTests.cs" caret="352" fromTop="12" />
+      <File id="D932622B-85BD-41C4-A9D7-8C1D7FF23009/f:TODO.txt" caret="216" fromTop="3" />
+      <File id="D932622B-85BD-41C4-A9D7-8C1D7FF23009/f:ExcelExperimentResultOutput.cs" caret="1368" fromTop="20" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="D932622B-85BD-41C4-A9D7-8C1D7FF23009/f:StringExtentions.cs" caret="440" fromTop="16" />
+      <File id="D932622B-85BD-41C4-A9D7-8C1D7FF23009/f:ExcelExperimentResultOutput.cs" caret="663" fromTop="18" />
+      <File id="D932622B-85BD-41C4-A9D7-8C1D7FF23009/f:ExperimentResult.cs" caret="268" fromTop="9" />
+      <File id="D932622B-85BD-41C4-A9D7-8C1D7FF23009/f:ExcelExperimentResultOutput.cs" caret="2154" fromTop="21" />
+      <File id="2F5AD5B2-550C-4B74-8267-BEDB47230B53/f:PerfomanceMeasurerTests.cs" caret="1055" fromTop="22" />
+      <File id="2F5AD5B2-550C-4B74-8267-BEDB47230B53/f:PerfomanceMeasurerTests.cs" caret="1198" fromTop="24" />
+      <File id="2F5AD5B2-550C-4B74-8267-BEDB47230B53/f:PerfomanceMeasurerTests.cs" caret="924" fromTop="19" />
+      <File id="D932622B-85BD-41C4-A9D7-8C1D7FF23009/f:ExcelExperimentResultOutput.cs" caret="2125" fromTop="22" />
+      <File id="2F5AD5B2-550C-4B74-8267-BEDB47230B53/f:PerfomanceMeasurerTests.cs" caret="48" fromTop="1" />
+      <File id="2F5AD5B2-550C-4B74-8267-BEDB47230B53/f:PerfomanceMeasurerTests.cs" caret="549" fromTop="15" />
+      <File id="D932622B-85BD-41C4-A9D7-8C1D7FF23009/f:IExperiment.cs" caret="243" fromTop="11" />
+      <File id="D932622B-85BD-41C4-A9D7-8C1D7FF23009/f:IExperiment.cs" caret="243" fromTop="11" />
+      <File id="D932622B-85BD-41C4-A9D7-8C1D7FF23009/f:IExperiment.cs" caret="125" fromTop="5" />
+      <File id="D932622B-85BD-41C4-A9D7-8C1D7FF23009/f:InputSettings.cs" caret="262" fromTop="10" />
+      <File id="D932622B-85BD-41C4-A9D7-8C1D7FF23009/f:InputSettings.cs" caret="528" fromTop="19" />
+      <File id="D932622B-85BD-41C4-A9D7-8C1D7FF23009/f:InputSettings.cs" caret="695" fromTop="18" />
+      <File id="D932622B-85BD-41C4-A9D7-8C1D7FF23009/f:InputSettings.cs" caret="396" fromTop="6" />
+      <File id="D932622B-85BD-41C4-A9D7-8C1D7FF23009/f:Measurement.cs" caret="79" fromTop="4" />
+      <File id="D932622B-85BD-41C4-A9D7-8C1D7FF23009/f:Measurement.cs" caret="273" fromTop="11" />
+      <File id="D932622B-85BD-41C4-A9D7-8C1D7FF23009/f:ExperimentRunner.cs" caret="101" fromTop="9" />
+      <File id="2F5AD5B2-550C-4B74-8267-BEDB47230B53/f:PerfomanceMeasurerTests.cs" caret="793" fromTop="22" />
+      <File id="2F5AD5B2-550C-4B74-8267-BEDB47230B53/f:PerfomanceMeasurerTests.cs" caret="1410" fromTop="13" />
+      <File id="2F5AD5B2-550C-4B74-8267-BEDB47230B53/f:PerfomanceMeasurerTests.cs" caret="630" fromTop="15" />
+      <File id="2F5AD5B2-550C-4B74-8267-BEDB47230B53/f:PerfomanceMeasurerTests.cs" caret="1353" fromTop="31" />
+      <File id="2F5AD5B2-550C-4B74-8267-BEDB47230B53/f:PerfomanceMeasurerTests.cs" caret="1352" fromTop="27" />
+      <File id="2F5AD5B2-550C-4B74-8267-BEDB47230B53/f:PerfomanceMeasurerTests.cs" caret="549" fromTop="16" />
+      <File id="2F5AD5B2-550C-4B74-8267-BEDB47230B53/f:PerfomanceMeasurerTests.cs" caret="281" fromTop="11" />
+      <File id="D932622B-85BD-41C4-A9D7-8C1D7FF23009/f:ExcelExperimentResultOutput.cs" caret="1630" fromTop="15" />
+      <File id="D932622B-85BD-41C4-A9D7-8C1D7FF23009/f:ExcelExperimentResultOutput.cs" caret="1368" fromTop="20" />
+      <File id="D932622B-85BD-41C4-A9D7-8C1D7FF23009/f:TODO.txt" caret="216" fromTop="3" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="public" priority="127" />
+      <Item value="abstract" priority="31" />
+      <Item value="T`0" priority="31" />
+      <Item value="int" priority="63" />
+      <Item value="return" priority="159" />
+      <Item value="new" priority="319" />
+      <Item value="string" priority="95" />
+      <Item value="MeasurementResult`0" priority="63" />
+      <Item value="ProbeResult`0" priority="63" />
+      <Item value="probeResults" priority="96" />
+      <Item value="ExperimentResult`0" priority="63" />
+      <Item value="Experiment" priority="48" />
+      <Item value="var" priority="223" />
+      <Item value="experiment" priority="223" />
+      <Item value="probe" priority="63" />
+      <Item value="List" priority="28" />
+      <Item value="ProbeResult" priority="28" />
+      <Item value="measurements" priority="31" />
+      <Item value="ExperimentResult" priority="45" />
+      <Item value="void" priority="63" />
+      <Item value="experimentResult" priority="224" />
+      <Item value="_outputPath" priority="31" />
+      <Item value="sb" priority="159" />
+      <Item value="Separator" priority="127" />
+      <Item value="x" priority="287" />
+      <Item value="foreach" priority="31" />
+      <Item value="if" priority="63" />
+      <Item value="throw" priority="31" />
+      <Item value="ArgumentException" priority="28" />
+      <Item value="for" priority="95" />
+      <Item value="size" priority="63" />
+      <Item value="sizesGroups" priority="31" />
+      <Item value="group" priority="63" />
+      <Item value="private" priority="63" />
+      <Item value="class" priority="31" />
+      <Item value="input" priority="61" />
+      <Item value="i" priority="31" />
+      <Item value="yield return" priority="63" />
+      <Item value="TestSum`0" priority="32" />
+      <Item value="TestMul`0" priority="32" />
+      <Item value="ExperimentRunner" priority="28" />
+      <Item value="experimentRunner" priority="31" />
+      <Item value="SomeExperiment" priority="28" />
+      <Item value="ExcelExperimentResultOutput" priority="28" />
+      <Item value="SizeSettings" priority="28" />
+      <Item value="Math`0" priority="31" />
+      <Item value="System" priority="63" />
+      <Item value="Diagnostics" priority="53" />
+      <Item value="Debugger`0" priority="53" />
+      <Item value="AssemblyLoadEventArgs`0" priority="31" />
+      <Item value="typeof" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PerformanceMeasurer.Domain.Experiment`1">
+      <Item value="GetProbes`0" priority="26" />
+      <Item value="Generate`0" priority="53" />
+      <Item value="SizeSettings" priority="80" />
+      <Item value="GetType`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PerformanceMeasurer.Domain.SizeSettings">
+      <Item value="SizeFrom" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Action`1">
+      <Item value="Method" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.MethodInfo">
+      <Item value="Name" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="Name" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="ToString`0" priority="26" />
+      <Item value="AppendLine`0" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PerformanceMeasurer.Domain.ExperimentResult">
+      <Item value="Name" priority="26" />
+      <Item value="ProbeResults" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Select`2" priority="96" />
+      <Item value="Join`0" priority="53" />
+      <Item value="First`1" priority="26" />
+      <Item value="Count`1" priority="53" />
+      <Item value="ToArray`1" priority="27" />
+      <Item value="Where`1" priority="54" />
+      <Item value="SelectMany`2" priority="53" />
+      <Item value="Join`4" priority="80" />
+      <Item value="GroupBy`2" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PerformanceMeasurer.Domain.ProbeResult">
+      <Item value="Name" priority="26" />
+      <Item value="Measurments" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PerformanceMeasurer.Domain.MeasurementResult">
+      <Item value="Size" priority="80" />
+      <Item value="Duration" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="ToString`0" priority="53" />
+      <Item value="TotalMilliseconds" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IGrouping`2">
+      <Item value="Key" priority="26" />
+      <Item value="Select`2" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PerformanceMeasurer.ExperimentRunner`1">
+      <Item value="Run`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PerformanceMeasurer.ExcelExperimentResultOutput">
+      <Item value="Output`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Sqrt`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Debugger">
+      <Item value="IsAttached" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.Assembly">
+      <Item value="GetExecutingAssembly`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.Assembly">
+      <Item value="GetCustomAttributesData`0" priority="26" />
+      <Item value="GetCustomAttributes`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="First`1" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">True</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

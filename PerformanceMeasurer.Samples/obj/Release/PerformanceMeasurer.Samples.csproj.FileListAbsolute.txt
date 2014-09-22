@@ -1,0 +1,8 @@
+D:\Development\PerformanceMeasurer\PerformanceMeasurer.Samples\bin\Release\PerformanceMeasurer.Samples.exe.config
+D:\Development\PerformanceMeasurer\PerformanceMeasurer.Samples\bin\Release\PerformanceMeasurer.Samples.exe
+D:\Development\PerformanceMeasurer\PerformanceMeasurer.Samples\bin\Release\PerformanceMeasurer.Samples.pdb
+D:\Development\PerformanceMeasurer\PerformanceMeasurer.Samples\bin\Release\PerformanceMeasurer.dll
+D:\Development\PerformanceMeasurer\PerformanceMeasurer.Samples\bin\Release\PerformanceMeasurer.pdb
+D:\Development\PerformanceMeasurer\PerformanceMeasurer.Samples\obj\Release\PerformanceMeasurer.Samples.csprojResolveAssemblyReference.cache
+D:\Development\PerformanceMeasurer\PerformanceMeasurer.Samples\obj\Release\PerformanceMeasurer.Samples.exe
+D:\Development\PerformanceMeasurer\PerformanceMeasurer.Samples\obj\Release\PerformanceMeasurer.Samples.pdb
