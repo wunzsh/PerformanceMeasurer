@@ -11,7 +11,7 @@ namespace PerformanceMeasurer.Tests
         public void IntegrationTest()
         {
             Console.WriteLine(System.Diagnostics.Debugger.IsAttached);
-            var experimentRunner = new ExperimentRunner<int>();
+            var experimentRunner = new ExperimentRunner();
             var res = experimentRunner.Run(new SomeExperiment());
             new CsvExperimentResultOutput("./").Output(res);
         }

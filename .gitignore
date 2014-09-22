@@ -1,1 +1,5 @@
 PerformanceMeasurer.Samples/obj/Release/PerformanceMeasurer.Samples.csprojResolveAssemblyReference.cache
+*.suo
+*.dll
+*.pdb
+*.dll

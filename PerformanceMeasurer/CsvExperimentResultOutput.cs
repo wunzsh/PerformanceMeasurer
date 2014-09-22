@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Globalization;
 using System.IO;
 using System.Text;
 using System.Linq;
@@ -60,7 +59,7 @@ namespace PerformanceMeasurer
             
             foreach( var group in sizesGroups)
             {
-                sb.AppendLine(group.Key + _separator + group.Select(x => x.Duration.TotalMilliseconds.ToString(CultureInfo.InvariantCulture))
+                sb.AppendLine(group.Key + _separator + group.Select(x => x.Duration.TotalMilliseconds.ToString())
                                                             .Join(_separator));
             }
 

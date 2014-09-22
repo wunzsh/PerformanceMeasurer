@@ -4,9 +4,9 @@ using System.Diagnostics;
 
 namespace PerformanceMeasurer
 {
-    public class ExperimentRunner<T>
+    public class ExperimentRunner
     {
-        public ExperimentResult Run(IExperiment<T>  experiment)
+        public ExperimentResult Run<T>(IExperiment<T>  experiment)
         {
             var probeResults = new List<ProbeResult>();
             var sizeSettings = experiment.InputSettings;

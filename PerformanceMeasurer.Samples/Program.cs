@@ -4,8 +4,8 @@
     {
         static void Main()
         {
-            var experimentRunner = new ExperimentRunner<int>();
-            var res = experimentRunner.Run(new MulVersusSumExperiment());
+            var experimentRunner = new ExperimentRunner();
+            var res = experimentRunner.Run(new StringBuilderVsConcat());
             new CsvExperimentResultOutput("./").Output(res);
         }
     }
