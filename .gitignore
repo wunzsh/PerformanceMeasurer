@@ -3,3 +3,5 @@ PerformanceMeasurer.Samples/obj/Release/PerformanceMeasurer.Samples.csprojResolv
 *.dll
 *.pdb
 *.dll
+*.dll
+*.dll
