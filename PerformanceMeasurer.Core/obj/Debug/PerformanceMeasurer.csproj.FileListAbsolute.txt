@@ -1,0 +1,4 @@
+C:\OpenSource\PerformanceMeasurer\PerformanceMeasurer\bin\Debug\PerformanceMeasurer.dll
+C:\OpenSource\PerformanceMeasurer\PerformanceMeasurer\bin\Debug\PerformanceMeasurer.pdb
+C:\OpenSource\PerformanceMeasurer\PerformanceMeasurer\obj\Debug\PerformanceMeasurer.dll
+C:\OpenSource\PerformanceMeasurer\PerformanceMeasurer\obj\Debug\PerformanceMeasurer.pdb

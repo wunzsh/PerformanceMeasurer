@@ -3,9 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+using PerformanceMeasurer.Core.GrowingInput;
+
 namespace PerformanceMeasurer.Samples
 {
-    public class StringBuilderVsConcat : IExperiment<string[]>
+    public class StringBuilderVsConcat : IGrowingInputExperiment<string[]>
     {
         public InputSettings InputSettings
         {

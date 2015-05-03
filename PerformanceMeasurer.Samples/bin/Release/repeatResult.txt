@@ -1,0 +1,3 @@
+StringSortExperiment
+CustomLsdSort	1.14204
+BuildInSort	7.67331

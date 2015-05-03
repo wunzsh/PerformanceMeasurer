@@ -1,16 +1,16 @@
 ﻿using System.Collections.Generic;
 
-namespace PerformanceMeasurer
+namespace PerformanceMeasurer.Core
 {
-    public class ProbeResult
+    public class ProbeResult<T>
     {
         public string Name { get; private set; }
-        public IEnumerable<Measurement> Measurments { get; set; }
+        public IEnumerable<T> Measurements { get; set; }
 
-        public ProbeResult(string name, IEnumerable<Measurement> measurments)
+        public ProbeResult(string name, IEnumerable<T> measurements)
         {
             Name = name;
-            Measurments = measurments;
+            Measurements = measurements;
         }
     }
 }

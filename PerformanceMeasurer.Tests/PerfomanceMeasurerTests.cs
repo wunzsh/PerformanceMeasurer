@@ -1,6 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
+
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+
+using PerformanceMeasurer.Core.GrowingInput;
+using PerformanceMeasurer.Output;
 
 namespace PerformanceMeasurer.Tests
 {
@@ -10,13 +15,13 @@ namespace PerformanceMeasurer.Tests
         [TestMethod]
         public void IntegrationTest()
         {
-            Console.WriteLine(System.Diagnostics.Debugger.IsAttached);
-            var experimentRunner = new ExperimentRunner();
-            var res = experimentRunner.Run(new SomeExperiment());
-            new CsvExperimentResultOutput("./").Output(res);
+            Console.WriteLine(Debugger.IsAttached);
+            var experimentRunner = new GrowingInputExperimentRunner();
+            var res = experimentRunner.Run(new SomeGrowingInputExperiment());
+            new CsvGrowingInputExperimentResultOutput("./").Output(res, "result");
         }
 
-        private class SomeExperiment : IExperiment<int>
+        private class SomeGrowingInputExperiment : IGrowingInputExperiment<int>
         {
             public InputSettings InputSettings
             {

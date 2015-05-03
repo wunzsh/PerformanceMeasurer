@@ -1,0 +1,9 @@
+C:\OpenSource\PerformanceMeasurer\PerformanceMeasurer\bin\Release\PerformanceMeasurer.dll
+C:\OpenSource\PerformanceMeasurer\PerformanceMeasurer\bin\Release\PerformanceMeasurer.pdb
+C:\OpenSource\PerformanceMeasurer\PerformanceMeasurer\obj\Release\PerformanceMeasurer.dll
+C:\OpenSource\PerformanceMeasurer\PerformanceMeasurer\obj\Release\PerformanceMeasurer.pdb
+D:\Development\PerformanceMeasurer\PerformanceMeasurer\obj\Release\PerformanceMeasurer.csprojResolveAssemblyReference.cache
+D:\Development\PerformanceMeasurer\PerformanceMeasurer\obj\Release\PerformanceMeasurer.dll
+D:\Development\PerformanceMeasurer\PerformanceMeasurer\bin\Release\PerformanceMeasurer.dll
+D:\Development\PerformanceMeasurer\PerformanceMeasurer\bin\Release\PerformanceMeasurer.pdb
+D:\Development\PerformanceMeasurer\PerformanceMeasurer\obj\Release\PerformanceMeasurer.pdb

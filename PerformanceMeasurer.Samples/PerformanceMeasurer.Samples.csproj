@@ -34,25 +34,33 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Xml.Linq" />
-    <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
-    <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="LsdSort.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StringBuilderVsConcat.cs" />
+    <Compile Include="StringSortExperiment.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PerformanceMeasurer\PerformanceMeasurer.csproj">
-      <Project>{d932622b-85bd-41c4-a9d7-8c1d7ff23009}</Project>
-      <Name>PerformanceMeasurer</Name>
+    <ProjectReference Include="..\PerformanceMeasurer.Output\PerformanceMeasurer.Output.csproj">
+      <Project>{c4d2f9f5-9da2-4b13-b9ed-84c1ecf827d0}</Project>
+      <Name>PerformanceMeasurer.Output</Name>
     </ProjectReference>
+    <ProjectReference Include="..\PerformanceMeasurer\PerformanceMeasurer.Core.csproj">
+      <Project>{d932622b-85bd-41c4-a9d7-8c1d7ff23009}</Project>
+      <Name>PerformanceMeasurer.Core</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="p022_names.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

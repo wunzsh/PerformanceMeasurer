@@ -1,4 +1,8 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/Environment/UnitTesting/NUnitProvider/UseAddins/@EntryValue">Never</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/AnalysisEnabled/@EntryValue">SOLUTION</s:String>
-	<s:Boolean x:Key="/Default/Housekeeping/SolutionSettingsUpgraded/IsUpgraded/@EntryValue">True</s:Boolean></wpf:ResourceDictionary>
+	<s:Boolean x:Key="/Default/Housekeeping/SolutionSettingsUpgraded/IsUpgraded/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=9614961FFCD24170B9EC498A22C8B2EB/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=9614961FFCD24170B9EC498A22C8B2EB/GroupingIndex/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=9614961FFCD24170B9EC498A22C8B2EB/Name/@EntryValue">IntegrationTest</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=9614961FFCD24170B9EC498A22C8B2EB/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;e Id="PerformanceMeasurer.Tests.PerfomanceMeasurerTests.IntegrationTest" Project="2F5AD5B2-550C-4B74-8267-BEDB47230B53" Provider="MSTest" /&gt;&lt;e Id="PerformanceMeasurer.Tests.PerfomanceMeasurerTests" Project="2F5AD5B2-550C-4B74-8267-BEDB47230B53" Provider="MSTest" /&gt;&lt;/Session&gt;</s:String></wpf:ResourceDictionary>

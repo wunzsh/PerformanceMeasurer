@@ -12,3 +12,12 @@ D:\Development\PerformanceMeasurer\PerformanceMeasurer.Tests\bin\Release\Perform
 D:\Development\PerformanceMeasurer\PerformanceMeasurer.Tests\obj\Release\PerformanceMeasurer.Tests.csprojResolveAssemblyReference.cache
 D:\Development\PerformanceMeasurer\PerformanceMeasurer.Tests\obj\Release\PerformanceMeasurer.Tests.dll
 D:\Development\PerformanceMeasurer\PerformanceMeasurer.Tests\obj\Release\PerformanceMeasurer.Tests.pdb
+D:\Git\MyRepos\PerformanceMeasurer\PerformanceMeasurer.Tests\bin\Release\PerformanceMeasurer.Tests.dll
+D:\Git\MyRepos\PerformanceMeasurer\PerformanceMeasurer.Tests\bin\Release\PerformanceMeasurer.Tests.pdb
+D:\Git\MyRepos\PerformanceMeasurer\PerformanceMeasurer.Tests\bin\Release\PerformanceMeasurer.Core.dll
+D:\Git\MyRepos\PerformanceMeasurer\PerformanceMeasurer.Tests\bin\Release\PerformanceMeasurer.Core.pdb
+D:\Git\MyRepos\PerformanceMeasurer\PerformanceMeasurer.Tests\obj\Release\PerformanceMeasurer.Tests.csprojResolveAssemblyReference.cache
+D:\Git\MyRepos\PerformanceMeasurer\PerformanceMeasurer.Tests\obj\Release\PerformanceMeasurer.Tests.dll
+D:\Git\MyRepos\PerformanceMeasurer\PerformanceMeasurer.Tests\obj\Release\PerformanceMeasurer.Tests.pdb
+D:\Git\MyRepos\PerformanceMeasurer\PerformanceMeasurer.Tests\bin\Release\PerformanceMeasurer.Output.dll
+D:\Git\MyRepos\PerformanceMeasurer\PerformanceMeasurer.Tests\bin\Release\PerformanceMeasurer.Output.pdb

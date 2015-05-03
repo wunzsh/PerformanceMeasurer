@@ -6,3 +6,14 @@ D:\Development\PerformanceMeasurer\PerformanceMeasurer.Samples\bin\Release\Perfo
 D:\Development\PerformanceMeasurer\PerformanceMeasurer.Samples\obj\Release\PerformanceMeasurer.Samples.csprojResolveAssemblyReference.cache
 D:\Development\PerformanceMeasurer\PerformanceMeasurer.Samples\obj\Release\PerformanceMeasurer.Samples.exe
 D:\Development\PerformanceMeasurer\PerformanceMeasurer.Samples\obj\Release\PerformanceMeasurer.Samples.pdb
+D:\Git\MyRepos\PerformanceMeasurer\PerformanceMeasurer.Samples\bin\Release\PerformanceMeasurer.Samples.exe.config
+D:\Git\MyRepos\PerformanceMeasurer\PerformanceMeasurer.Samples\obj\Release\PerformanceMeasurer.Samples.exe
+D:\Git\MyRepos\PerformanceMeasurer\PerformanceMeasurer.Samples\obj\Release\PerformanceMeasurer.Samples.pdb
+D:\Git\MyRepos\PerformanceMeasurer\PerformanceMeasurer.Samples\bin\Release\PerformanceMeasurer.Samples.exe
+D:\Git\MyRepos\PerformanceMeasurer\PerformanceMeasurer.Samples\bin\Release\PerformanceMeasurer.Samples.pdb
+D:\Git\MyRepos\PerformanceMeasurer\PerformanceMeasurer.Samples\bin\Release\PerformanceMeasurer.Core.dll
+D:\Git\MyRepos\PerformanceMeasurer\PerformanceMeasurer.Samples\bin\Release\PerformanceMeasurer.Core.pdb
+D:\Git\MyRepos\PerformanceMeasurer\PerformanceMeasurer.Samples\obj\Release\PerformanceMeasurer.Samples.csprojResolveAssemblyReference.cache
+D:\Git\MyRepos\PerformanceMeasurer\PerformanceMeasurer.Samples\bin\Release\PerformanceMeasurer.Output.dll
+D:\Git\MyRepos\PerformanceMeasurer\PerformanceMeasurer.Samples\bin\Release\PerformanceMeasurer.Output.pdb
+D:\Git\MyRepos\PerformanceMeasurer\PerformanceMeasurer.Samples\bin\Release\p022_names.txt

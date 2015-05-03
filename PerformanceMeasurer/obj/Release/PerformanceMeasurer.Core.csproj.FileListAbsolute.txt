@@ -1,0 +1,5 @@
+D:\Git\MyRepos\PerformanceMeasurer\PerformanceMeasurer\obj\Release\PerformanceMeasurer.Core.csprojResolveAssemblyReference.cache
+D:\Git\MyRepos\PerformanceMeasurer\PerformanceMeasurer\bin\Release\PerformanceMeasurer.Core.dll
+D:\Git\MyRepos\PerformanceMeasurer\PerformanceMeasurer\bin\Release\PerformanceMeasurer.Core.pdb
+D:\Git\MyRepos\PerformanceMeasurer\PerformanceMeasurer\obj\Release\PerformanceMeasurer.Core.dll
+D:\Git\MyRepos\PerformanceMeasurer\PerformanceMeasurer\obj\Release\PerformanceMeasurer.Core.pdb
